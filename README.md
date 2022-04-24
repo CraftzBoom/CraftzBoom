@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 Hi 👋 My name is Shivam Yadav
 =============================
 
-Web Developer
+Full Stack Web Developer
 -------------
 
 Lover of all things web and open-source. Coding and writing stuff for humans™.
